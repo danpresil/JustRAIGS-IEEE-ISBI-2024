@@ -1,0 +1,8 @@
+epoch_0_weight_best_0.9317073170731708.pt filter=lfs diff=lfs merge=lfs -text
+epoch_0_weight_best_0.9346092503987241.pt filter=lfs diff=lfs merge=lfs -text
+epoch_0_weight_best_0.9347079037800687.pt filter=lfs diff=lfs merge=lfs -text
+epoch_0_weight_best_0.9362363919129082.pt filter=lfs diff=lfs merge=lfs -text
+epoch_0_weight_best_0.9472817133443163.pt filter=lfs diff=lfs merge=lfs -text
+epoch_0_weight_best_0.9496183206106871.pt filter=lfs diff=lfs merge=lfs -text
+epoch_0_weight_best_0.9538714991762768.pt filter=lfs diff=lfs merge=lfs -text
+epoch_1_weight_best_0.9382113821138212.pt filter=lfs diff=lfs merge=lfs -text
