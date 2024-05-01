@@ -1,6 +1,13 @@
-# JustRAIGS Challenge Solution
+## JustRAIGS Challenge Solution
+
+###
+![viz_TRAIN044352_TRAIN045943_TRAIN069430_w_text_2](https://github.com/danpresil/JustRAIGS-IEEE-ISBI-2024/assets/23153756/f844e60b-e667-453f-a7db-a642fd4ffef9)
 
 
+### Checkpoints Download
+Weight download link: **[GOOGLE DRIVE]([https://eff.org](https://drive.google.com/drive/folders/1uBeit6hzT_uRD_t1liC6AQ18T36QY6RO?usp=sharing))**.
+
+### Container Setup 
 An example algorithm container is provided via: ./src
 
 You can study it and run it by calling:
