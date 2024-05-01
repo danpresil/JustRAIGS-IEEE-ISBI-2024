@@ -5,7 +5,7 @@
 
 
 ### Checkpoints Download
-Weight download link: **[GOOGLE DRIVE]([https://eff.org](https://drive.google.com/drive/folders/1uBeit6hzT_uRD_t1liC6AQ18T36QY6RO?usp=sharing))**.
+Weight download link: *[GOOGLE DRIVE]([https://www.markdownguide.org](https://eff.org](https://drive.google.com/drive/folders/1uBeit6hzT_uRD_t1liC6AQ18T36QY6RO?usp=sharing))*
 
 ### Container Setup 
 An example algorithm container is provided via: ./src
