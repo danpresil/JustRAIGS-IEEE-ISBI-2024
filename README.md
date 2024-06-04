@@ -1,4 +1,4 @@
-## JustRAIGS Challenge Solution
+## JustRAIGS Challenge - 2nd Place Solution
 
 ###
 ![viz_TRAIN044352_TRAIN045943_TRAIN069430_w_text_2](https://github.com/danpresil/JustRAIGS-IEEE-ISBI-2024/assets/23153756/f844e60b-e667-453f-a7db-a642fd4ffef9)
