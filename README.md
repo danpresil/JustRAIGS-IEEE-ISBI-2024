@@ -1,3 +1,5 @@
+[💻 Demo]([url](https://huggingface.co/spaces/danpresil/JustRAIGS-IEEE-ISBI-2024-3rd-place-solution-DEMO))
+
 ## JustRAIGS Challenge - 2nd Place Solution
 
 ###
